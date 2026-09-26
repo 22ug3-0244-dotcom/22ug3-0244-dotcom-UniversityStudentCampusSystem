@@ -274,12 +274,10 @@ The application provides the following main menu:
 
 👥 Group Members and Responsibilities
 
-«Replace the placeholders below with your actual names and student IDs before submission.»
-
 Member 1 – Student Records & Linked List
 
-Name: "[MEMBER 1 FULL NAME]"
-Student ID: "[MEMBER 1 STUDENT ID]"
+Name: "N P S I PIYATHILAKA"
+Student ID: "22UG3-0244"
 
 Responsibility
 
@@ -301,8 +299,8 @@ Individual Contribution
 
 Member 2 – Stack & Queue
 
-Name: "[MEMBER 2 FULL NAME]"
-Student ID: "[MEMBER 2 STUDENT ID]"
+Name: "S S SOMATHILAKA"
+Student ID: "22UG3-0683"
 
 Responsibility
 
@@ -324,8 +322,8 @@ Individual Contribution
 
 Member 3 – BST & Hashing
 
-Name: "[MEMBER 3 FULL NAME]"
-Student ID: "[MEMBER 3 STUDENT ID]"
+Name: "W M N H ABERATHNA"
+Student ID: "22UG3-0685"
 
 Responsibility
 
@@ -348,8 +346,8 @@ Individual Contribution
 
 Member 4 – Graph & BFS
 
-Name: "[MEMBER 4 FULL NAME]"
-Student ID: "[MEMBER 4 STUDENT ID]"
+Name: "W M H S ABERATHNA"
+Student ID: "22UG3-0719"
 
 Responsibility
 
@@ -508,7 +506,7 @@ main
 ├── member3-bst-hashing
 └── member4-graph
 
-Member 1
+Member 1 (22UG3-0244)
 
 member1-linkedlist
 
@@ -518,7 +516,7 @@ Student.java
 StudentNode.java
 StudentLinkedList.java
 
-Member 2
+Member 2 (22UG3-0683)
 
 member2-stack-queue
 
@@ -527,7 +525,7 @@ Responsible for:
 ActionStack.java
 ServiceRequestQueue.java
 
-Member 3
+Member 3 (22UG3-0685)
 
 member3-bst-hashing
 
@@ -537,7 +535,7 @@ BSTNode.java
 StudentBST.java
 StudentHashTable.java
 
-Member 4
+Member 4 (22UG3-0719)
 
 member4-graph
 
@@ -813,22 +811,22 @@ The final demonstration presents the complete application and the individual con
 
 Demonstration Sections
 
-Member 1
+Member 1 (22UG3-0244)
 
 - Student record management
 - Linked List operations
 
-Member 2
+Member 2 (22UG3-0683)
 
 - Service request Queue
 - Recent action Stack
 
-Member 3
+Member 3 (22UG3-0685)
 
 - BST operations
 - Hash Table searching
 
-Member 4
+Member 4 (22UG3-0719)
 
 - Campus Graph
 - Campus connections
@@ -867,13 +865,6 @@ The project implements the required major components:
 - [x] Individual contribution documentation
 - [x] Demonstration video
 
----
-
-📌 Project Status
-
-Status: Completed / In Development
-
-«Update this section to Completed only after the complete application has been tested and integrated.»
 
 ---
 
@@ -888,19 +879,13 @@ Programming Language: Java
 
 👥 Group Information
 
-Member| Name| Student ID| Responsibility
-1| "[Name]"| "[ID]"| Student Records & Linked List
-2| "[Name]"| "[ID]"| Stack & Queue
-3| "[Name]"| "[ID]"| BST & Hashing
-4| "[Name]"| "[ID]"| Graph & BFS
+Member| Name                | Student ID     | Responsibility
 
----
+1     | N P S I PIYATHILAKA | (22UG3-0244)   | Student Records & Linked List
+2     | S S SOMATHILAKA     | (22UG3-0683)   | Stack & Queue
+3     | W M N H ABERATHNA   | (22UG3-0685)   | BST & Hashing
+4     | W M H S ABERATHNA   | (22UG3-0719)   | Graph & BFS
 
-📜 Academic Integrity
-
-This project is developed as a group assignment for academic purposes. Each group member is responsible for understanding and being able to explain their individual contribution and the overall system integration.
-
----
 
 ⭐ Project Summary
 
