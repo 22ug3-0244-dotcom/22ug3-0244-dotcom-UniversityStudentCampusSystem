@@ -39,38 +39,7 @@ public class StudentHashTable {
     }
 
     // Search student
-    public Student search(int studentId) {
-
-        int index = hash(studentId);
-
-        for (int i = 0; i < SIZE; i++) {
-
-            int position = (index + i) % SIZE;
-
-            if (table[position] == null) {
-                return null;
-            }
-
-            if (table[position].getStudentId() == studentId) {
-                return table[position];
-            }
-        }
-
-        return null;
-    }
-
-    // Delete student
-    public boolean delete(int studentId) {
-
-        int index = hash(studentId);
-
-        for (int i = 0; i < SIZE; i++) {
-
-            int position = (index + i) % SIZE;
-
-            if (table[position] == null) {
-                return false;
-            }
+  
 
             if (table[position].getStudentId() == studentId) {
 
